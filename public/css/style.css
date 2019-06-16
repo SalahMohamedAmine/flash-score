@@ -1,0 +1,48 @@
+.table
+{
+    margin: auto;
+    background-color: #ccc;
+    width: 1000px;
+}
+.titre
+{
+    width: 1000px;
+    border-bottom: 1px solid black;
+}
+.c0 ,.c1 ,.c2 ,.c3 ,.c4,.c5
+{
+    display: inline-block;
+    
+}
+
+.c0
+{
+    width: 61px;
+    
+    margin-right: 7px;
+    margin-left: 12px; 
+}
+.c1
+{    
+    width: 56px;
+    margin-right: 10px;
+    
+}
+.c2
+{
+    width: 209px;
+    margin-right: 53px;
+}
+.c3 ,.c4
+{
+    width: 10px;
+    
+    margin-right: 20px;
+}
+.c5
+{
+    
+    margin-left: 139px;
+    width: 327px;
+    
+}
